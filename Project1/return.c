@@ -11,7 +11,7 @@ int compute_sum(int n) {
 }
 void main(void) {
 	int result, data;
-	printf("합을 구합니다 : ");
+	printf("합을 구합니다 : \n");
 	scanf("%d", &data); //입력을 받는다
 	result = compute_sum(data);
 	printf("%d\n", result);

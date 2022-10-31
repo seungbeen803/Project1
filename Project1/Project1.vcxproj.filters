@@ -24,5 +24,26 @@
     <ClCompile Include="return.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="star.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="max1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="count.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="count1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="static1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nansu.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nansu1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
